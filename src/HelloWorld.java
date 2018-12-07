@@ -6,7 +6,6 @@ public class HelloWorld {
 		pw.println("What ever");
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		PrintWriter pw = new PrintWriter(System.out);
 		pw.println("Hello, world!");
 		pw.flush();
