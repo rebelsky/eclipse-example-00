@@ -1,5 +1,11 @@
 import java.io.PrintWriter;
 
+/**
+ * YA Hello, World application.
+ *
+ * @author Samuel A. Rebelsky
+ * @version 0.1 of 2018-12-07
+ */
 public class HelloWorld {
 
 	public static void whatever(PrintWriter pw) {
